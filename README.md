@@ -8,7 +8,7 @@
 
 ### Technology & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 
 
 ### Github Stats
