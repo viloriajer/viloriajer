@@ -23,9 +23,8 @@
 
 
 ### Previous Projects
-  ...Will update soon.
-  [Coaching APP](https://irreverentcoachingapp.com/about "Irreverent Coaching App")
-  > The project was a Progressive Web Appusing ReactJS, .NET C# Web API, andMicrosoft SQL as the database. The companyis now using the application to track theirclients' progress through their program andtheir coaches' performance metrics.
+  [SCCi Coaching App](https://irreverentcoachingapp.com/about "Irreverent Coaching App")
+  > I was a team leader for the Front End of a competitive capstone project tasked with creating a coaching application for an industry client. The project was a Progressive Web App using ReactJS, .NET C# Web API, and Microsoft SQL as the database. The company is now using the application to track their clients' progress through their program and their coaches' performance metrics.
 <!--
 **viloriajer/viloriajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
