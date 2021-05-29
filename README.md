@@ -25,6 +25,14 @@
 ### Previous Projects
   [SCCi Coaching App](https://irreverentcoachingapp.com/about "Irreverent Coaching App")
   > I was a team leader for the Front End of a competitive capstone project tasked with creating a coaching application for an industry client. The project was a Progressive Web App using ReactJS, .NET C# Web API, and Microsoft SQL as the database. The company is now using the application to track their clients' progress through their program and their coaches' performance metrics.
+
+### Current Projects
+* Creating a small Spotify stats app where you can view your top artists and songs by time range.
+
+* Building a small Web App for owners of sports cars to list their vehicles for people to rent out to clients.
+
+
+
 <!--
 **viloriajer/viloriajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
