@@ -24,7 +24,7 @@
 
 ### Previous Projects
   ...Will update soon.
-  (https://irreverentcoachingapp.com/about "Irreverent Coaching App")
+  [Coaching APP](https://irreverentcoachingapp.com/about "Irreverent Coaching App")
   > The project was a Progressive Web Appusing ReactJS, .NET C# Web API, andMicrosoft SQL as the database. The companyis now using the application to track theirclients' progress through their program andtheir coaches' performance metrics.
 <!--
 **viloriajer/viloriajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
