@@ -23,7 +23,8 @@
 
 
 ### Previous Projects
-  [SCCi Coaching App](https://irreverentcoachingapp.com/about "Irreverent Coaching App")
+  <!-- [SCCi Coaching App](https://irreverentcoachingapp.com/about "Irreverent Coaching App") -->
+  SCCi Coaching App
   > I was a team leader for the Front End of a competitive capstone project tasked with creating a coaching application for an industry client. The project was a Progressive Web App using ReactJS, .NET C# Web API, and Microsoft SQL as the database. The company is now using the application to track their clients' progress through their program and their coaches' performance metrics.
 
 ### Current Projects
